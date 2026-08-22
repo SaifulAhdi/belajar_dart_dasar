@@ -9,7 +9,7 @@ void main() {
   print(dataInt);
 
   // cek tipe data
-  print(data is int); // true
+  //print(data is int); // true
   print(data is String); // false
   print(data is bool); // false
 }
